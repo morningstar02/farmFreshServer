@@ -1,14 +1,14 @@
 {
-  "name": "star-tripper",
+  "name": "farm-fresh-services",
   "version": "1.0.0",
-  "description": "Tripping onto stars",
+  "description": "User and Cart Server for Farm Fresh Services",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/morningstar02/star-tripper-server"
+    "url": "https://github.com/morningstar02/farmFreshServer"
   },
   "author": "morningstar02",
   "license": "ISC",

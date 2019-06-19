@@ -1,7 +1,7 @@
 {
     "development": {
         "PORT": 8080,
-        "MONGODB_URI": "mongodb+srv://user-2020:corvette22@samael-morningstar-zuyfw.mongodb.net/star-tripper",
+        "MONGODB_URI": "mongodb+srv://user-2020:corvette22@samael-morningstar-zuyfw.mongodb.net/farmFreshDB",
         "JWT_SECRET": "MYSECRET#1212",
         "JWT_EXP": "10m"
     },
